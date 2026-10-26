@@ -1,0 +1,20 @@
+TASK 3 - DEEP-DIVE ANALYSIS REPORT
+
+CORE KPIs
+Total Revenue: 139,399,439.65
+Unique Orders: 992.00
+Average Order Value: 140,523.63
+Units Sold: 5,435.00
+Unique Customers: 947.00
+
+TOP CATEGORY BY REVENUE
+Electronics: 50,778,581.70
+
+TOP PRODUCT BY REVENUE
+Laptop: 25,443,008.51
+
+TOP CITY BY REVENUE
+Patna: 19,285,966.89
+
+Monthly revenue is saved in outputs/plots/monthly_revenue.png.
+Review the monthly trend for unusual dates and business patterns.

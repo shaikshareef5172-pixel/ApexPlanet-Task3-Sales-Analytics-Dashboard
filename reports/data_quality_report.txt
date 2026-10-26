@@ -1,0 +1,10 @@
+APEXPLANET TASK 3 - DATA QUALITY REPORT
+Rows after cleaning: 1000
+Columns: 12
+Fully duplicated rows before cleaning: 0
+Repeated Order_ID rows before cleaning: 8
+Missing Age values before cleaning: 20
+Missing City values before cleaning: 13
+Revenue calculation mismatches: 0
+Date range: 2025-01-01 00:00:00 to 2026-01-01 00:00:00
+Cleaned CSV: C:\Users\shaik\Downloads\AplexPlanet_Task3_DeepDive_Dashboard\data\processed\cleaned_sales.csv
